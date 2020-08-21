@@ -1,2 +1,3 @@
 # RT-Messenger
-mini project
+Mini Project For Educational Purpose
+ 
