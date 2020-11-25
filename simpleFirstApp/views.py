@@ -21,7 +21,6 @@ from .models import Students, Teachers, Courses, StudentSubjects, Subjects, Mult
 from django.contrib.auth import authenticate,login,logout
 from django.contrib.auth.decorators import login_required
 
-# Create your views here.
 
 def FirstPageController(request):
     return HttpResponse("<h1>My First Django Project Page</h1>")
